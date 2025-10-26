@@ -1,0 +1,419 @@
+🧠 Core Python Concepts
+
+What is Python?
+
+How do you install Python?
+
+What are Python's key features?
+
+What is the difference between Python 2 and Python 3?
+
+What are Python's built-in data types?
+
+Explain the difference between list and tuple.
+
+What is a dictionary in Python?
+
+How do you create a set in Python?
+
+What are frozenset and its use cases?
+
+Explain the difference between deepcopy and shallow copy.
+
+What are list comprehensions?
+
+How do you reverse a list in Python?
+
+What is the purpose of the zip() function?
+
+How do you merge two dictionaries in Python?
+
+What is the difference between == and is in Python?
+
+Explain the concept of mutable and immutable objects.
+
+What are Python decorators?
+
+How do you handle exceptions in Python?
+
+What is the purpose of the with statement?
+
+What are Python generators and how do they work?
+
+🧪 Object-Oriented Programming (OOP)
+
+What is Object-Oriented Programming?
+
+Explain the four pillars of OOP.
+
+What is a class in Python?
+
+How do you create an object in Python?
+
+What is inheritance in Python?
+
+Explain method overriding in Python.
+
+What is polymorphism in Python?
+
+What is encapsulation in Python?
+
+What is an abstract class?
+
+What are class methods and static methods?
+
+What is the self keyword?
+
+How do you define a constructor in Python?
+
+What is multiple inheritance?
+
+What is the super() function?
+
+What is method resolution order (MRO)?
+
+What is the @staticmethod decorator?
+
+What is the @classmethod decorator?
+
+How do you implement operator overloading?
+
+What is the purpose of __init__() method?
+
+What are dunder methods in Python?
+
+📦 Modules and Packages
+
+What is a module in Python?
+
+How do you import a module?
+
+What is the difference between import and from ... import?
+
+What is the purpose of __init__.py file?
+
+How do you create a package in Python?
+
+What is the sys module used for?
+
+What is the os module used for?
+
+How do you handle file operations in Python?
+
+What is the random module used for?
+
+How do you generate random numbers in Python?
+
+🧪 Data Structures
+
+What is a list in Python?
+
+How do you add elements to a list?
+
+How do you remove elements from a list?
+
+What is a tuple in Python?
+
+What are the advantages of tuples over lists?
+
+What is a set in Python?
+
+How do you add elements to a set?
+
+How do you remove elements from a set?
+
+What is a dictionary in Python?
+
+How do you add key-value pairs to a dictionary?
+
+How do you remove key-value pairs from a dictionary?
+
+What is the difference between del and pop() in dictionaries?
+
+What are defaultdict and Counter in Python?
+
+How do you iterate over a dictionary?
+
+What is the collections module?
+
+What is the namedtuple class?
+
+What is the deque class?
+
+How do you implement a stack using lists?
+
+How do you implement a queue using lists?
+
+What is a priority queue?
+
+🔄 Functions and Lambdas
+
+What is a function in Python?
+
+How do you define a function?
+
+What are default arguments in functions?
+
+What are keyword arguments?
+
+What are variable-length arguments (*args and **kwargs)?
+
+What is a lambda function?
+
+How do you return multiple values from a function?
+
+What is a recursive function?
+
+What is a higher-order function?
+
+What is the map() function?
+
+What is the filter() function?
+
+What is the reduce() function?
+
+What is the purpose of functools module?
+
+What is the partial() function?
+
+What is the wraps() function?
+
+What is the lru_cache() decorator?
+
+How do you handle function arguments dynamically?
+
+What is the purpose of locals() and globals() functions?
+
+How do you define a generator function?
+
+What is the yield keyword?
+
+📅 Date and Time
+
+How do you work with dates and times in Python?
+
+What is the datetime module?
+
+How do you get the current date and time?
+
+How do you format dates and times?
+
+How do you parse strings into dates?
+
+How do you perform date arithmetic?
+
+What is the time module?
+
+How do you measure elapsed time?
+
+What is the calendar module?
+
+How do you work with time zones?
+
+🧪 Exception Handling
+
+What is exception handling?
+
+What is the purpose of try, except, else, and finally blocks?
+
+What is the raise statement?
+
+How do you define custom exceptions?
+
+What is the assert statement?
+
+What is the logging module?
+
+How do you log messages in Python?
+
+What are logging levels?
+
+How do you configure logging?
+
+What is the traceback module?
+
+🧪 File Handling
+
+How do you open a file in Python?
+
+What are the different file modes?
+
+How do you read from a file?
+
+How do you write to a file?
+
+How do you append to a file?
+
+How do you close a file?
+
+What is the with statement in file handling?
+
+How do you read and write binary files?
+
+How do you read and write CSV files?
+
+What is the csv module?
+
+How do you parse CSV files?
+
+How do you write to CSV files?
+
+What is the json module?
+
+How do you parse JSON data?
+
+How do you write JSON data?
+
+What is the pickle module?
+
+How do you serialize objects using pickle?
+
+How do you deserialize objects using pickle?
+
+What is the shutil module?
+
+How do you copy files and directories?
+
+How do you move files and directories?
+
+How do you delete files and directories?
+
+What is the pathlib module?
+
+How do you work with file paths?
+
+How do you check file existence?
+
+How do you get file metadata?
+
+How do you iterate over files in a directory?
+
+How do you create directories?
+
+How do you remove directories?
+
+What is the tempfile module?
+
+🧪 Regular Expressions
+
+What is a regular expression?
+
+How do you use regular expressions in Python?
+
+What is the re module?
+
+How do you match patterns using re?
+
+What are metacharacters in regular expressions?
+
+What are character classes in regular expressions?
+
+What are quantifiers in regular expressions?
+
+What are anchors in regular expressions?
+
+What are groups and capturing in regular expressions?
+
+How do you search for patterns in strings?
+
+How do you replace patterns in strings?
+
+How do you split strings using patterns?
+
+How do you find all occurrences of a pattern?
+
+How do you compile regular expressions?
+
+What are flags in regular expressions?
+
+How do you match patterns at the start and end of strings?
+
+How do you match any character except a newline?
+
+How do you match digits, letters, and whitespace?
+
+How do you use lookahead and lookbehind assertions?
+
+How do you match non-greedy patterns?
+
+🧪 Multithreading and Multiprocessing
+
+What is multithreading?
+
+What is multiprocessing?
+
+What is the threading module?
+
+How do you create a thread?
+
+How do you start a thread?
+
+How do you join a thread?
+
+What is the Lock class?
+
+What is the RLock class?
+
+What is the Semaphore class?
+
+What is the Event class?
+
+What is the Condition class?
+
+What is the Queue class?
+
+What is the ThreadPoolExecutor class?
+
+What is the multiprocessing module?
+
+How do you create a process?
+
+How do you start a process?
+
+How do you join a process?
+
+What is the Pool class?
+
+What is the Manager class?
+
+What is the Queue class in multiprocessing?
+
+What is the Pipe class?
+
+What is the Value and Array classes?
+
+How do you share data between processes?
+
+How do you synchronize processes?
+
+What is the Global Interpreter Lock (GIL)?
+
+How does the GIL affect multithreading?
+
+How do you achieve parallelism in Python?
+
+What is the concurrent.futures module?
+
+What is the asyncio module?
+
+What are coroutines?
+
+What is an event loop?
+
+What are tasks in asyncio?
+
+What is the await keyword?
+
+What is the async keyword?
+
+How do you handle exceptions in asyncio?
+
+What is the asyncio.Queue class?
+
+What is the asyncio.gather() function?
+
+What is the asyncio.create_task() function?
+
+What is the asyncio.run() function?
+
+How do you run multiple coroutines concurrently?
